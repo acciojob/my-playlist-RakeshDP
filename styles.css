@@ -11,15 +11,17 @@ h1,h2{
   padding:5px;
   border-radius:5px; 
 }
-li{
-  text-decoration:none;
+a{
+  text-decoration-line:none;
   color:black;
 }
-
 .player_two{
  background-color:white;
  text-align: center;
  margin:0px 150px 0px 150px;
 padding:10px;
  border-radius:5px;
+}
+ul{
+	list-style-type:none;
 }
